@@ -6,7 +6,7 @@ Androidで動作する自作ゲーム4作目です。
 apkファイルをダウンロードし、Androidに入れてください
 
 # ソースコードなどを見たい場合
-unitypackageをダウンロードし、unityからインポートしてください。ただし、このunitypackageにはasset storeからインポートしたassetが含まれていません。そのため、asset storeからPONETI（アセットの作者）のClean Vector Icons（アセットのパッケージ名）のデモファイル以外をインポートしていただけると、unity上でも本ゲームを遊ぶことができます。
+unitypackageをダウンロードし、unityからインポートしてください。ただし、このunitypackageにはasset storeからインポートしたassetが含まれていません。そのため、asset storeからPONETI（アセットの作者）のClean Vector Icons（アセットのパッケージ名）のT_11_home_.pngをインポートしていただけると、unity上でも本ゲームを遊ぶことができます。
 
 # 開発期間などが知りたい場合
 summary.pdfをご覧ください。
